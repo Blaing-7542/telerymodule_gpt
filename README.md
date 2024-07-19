@@ -1,1 +1,1 @@
-# telerymodule_gpt
+# Модуль gpt для юзербота Telery.
